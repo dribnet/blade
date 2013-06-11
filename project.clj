@@ -1,4 +1,4 @@
-(defproject net.drib/blade "0.1.0"
+(defproject net.drib/blade "0.2.0-SNAPSHOT"
   :description "blade: leaflet from clojurescript"
   :url "https://github.com/dribnet/blade"
   :license {:name "Eclipse Public License"

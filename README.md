@@ -5,7 +5,7 @@
 
 ## Example
 
-[Tutorial example](http://s.trokes.org/dribnet/4326898) can be found in this repo under examples.
+[Tutorial example](http://bl.ocks.org/dribnet/4326898) can be found in this repo under examples.
 
 ## Getting Started 
 
